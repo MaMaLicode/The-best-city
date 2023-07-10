@@ -1,0 +1,64 @@
+@media only screen and (max-width:780px) {
+
+    html,
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .header-content {
+        display: block;
+        padding: 12px;
+    }
+
+    .bestcity {
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+        margin-bottom: 6px;
+    }
+
+    .middle{
+        width: 100%;
+    }
+
+    .middle-content{
+        width: 100%;
+    }
+
+    .button-box {
+        gap: 1px;
+        margin: 0 auto;
+        padding: 0 auto;
+    }
+
+    .button {
+        margin: 0 auto;
+        font-size: 8px;
+    }
+
+    .wrapper {
+        width: 100%;
+    }
+
+    .content{
+        height: fit-content;
+    }
+
+    .content-content {
+        display: block;
+    }
+
+    .box1{
+        margin: auto;
+    }
+    .navar{
+        margin: 0 auto;
+        display: block;
+        position: inherit;
+
+    }
+
+
+
+}

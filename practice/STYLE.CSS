@@ -1,0 +1,189 @@
+@font-face {
+    font-family: varela;
+    src: url("asset/VarelaRound-Regular.ttf");
+}
+
+
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    font-family: "Varela";
+
+}
+
+.header {
+    /* background-color: aqua; */
+    height: 60px;
+}
+
+.header-content {
+    /* background-color: blue; */
+    height: 100%;
+    display: flex;
+}
+
+.button-header {
+    width: 50%;
+    align-items: center;
+}
+
+.bestcity {
+    align-items: center;
+    /* border: 2px solid black; */
+    display: flex;
+}
+
+.txt {
+    /* border: 2px solid black; */
+    color: #062d32;
+
+}
+
+.button-box {
+    display: flex;
+    justify-content: end;
+    gap: 40px;
+}
+
+.button {
+    /* border: 2px solid black; */
+    color: rgb(58, 206, 194);
+    font-size: 13PX;
+
+}
+
+.middle {
+    background-color: rgb(58, 206, 194);
+    height: 220px;
+    border-top: 1PX SOLID black;
+    display: block;
+    width: auto;
+    /* width: 10ew; */
+    /* box-shadow: 5px 0 0 0 black; */
+}
+
+.middle-content {
+    display: flex;
+    flex-direction: column;
+    /* background-color: pink; */
+    height: 100%;
+}
+
+.city {
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.cityimg {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.citytxt {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.citytxt2 {
+    color: white;
+}
+
+.content {
+    /* background-color: green; */
+    height: 280px;
+}
+
+.content-content {
+    /* background-color: lightgreen; */
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box1 {
+    /* border: 1px solid black; */
+    height: 300px;
+    width: 230px;
+    padding-top: 40px;
+
+}
+
+h2 {
+    margin: 0;
+    font-size: 20px;
+    color: #002946;
+}
+
+#Great-Food-Text {
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 11px;
+    color: rgb(0, 0, 68);
+}
+
+
+.motherpic {
+    position: relative;
+}
+
+.halfpic {
+    background-color: rgba(0, 0, 62, 0.653);
+    position: absolute;
+    width: 230px;
+    height: 70px;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+h4 {
+    margin: 0;
+    margin-top: 5px;
+    font-size: 11px;
+    text-align: center;
+    color: white;
+}
+
+.p {
+    margin: 0;
+    font-size: 10px;
+    margin-top: 5px;
+    color: white;
+}
+
+.navar {
+    background-color: rgb(224, 224, 224);
+    height: 40px;
+    margin-top: 70px;
+}
+
+.navar-content {
+    /* background-color: lightblue; */
+    height: 100%;
+    text-align: center;
+}
+
+.txt5 {
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.wrapper {
+    margin: auto;
+    width: 800px;
+}
