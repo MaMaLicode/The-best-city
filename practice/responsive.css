@@ -8,7 +8,11 @@
 
     .header-content {
         display: block;
-        padding: 12px;
+        padding: 10px;
+    }
+    .txt{
+        font-size: 15px;
+        font-weight: bold;
     }
 
     .bestcity {
@@ -30,15 +34,17 @@
         gap: 1px;
         margin: 0 auto;
         padding: 0 auto;
+        width: 70%;
+        margin-top: 9px;
     }
 
     .button {
         margin: 0 auto;
-        font-size: 8px;
-    }
+        font-size: 10px;
+        }
 
     .wrapper {
-        width: 100%;
+        width: inherit;
     }
 
     .content{
@@ -49,8 +55,21 @@
         display: block;
     }
 
+    #Welocome-Box{
+        height: 210px;
+        padding-top: 40px;
+    }
+    #Left-Box{
+        height: 230px;
+    }
+
     .box1{
         margin: auto;
+        width: 280px;
+        padding-top: 15px;
+    }
+    .halfpic{
+        width: 280px;
     }
     .navar{
         margin: 0 auto;
