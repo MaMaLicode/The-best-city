@@ -44,7 +44,7 @@
         }
 
     .wrapper {
-        width: inherit;
+        width: 100%;
     }
 
     .content{
@@ -76,6 +76,18 @@
         display: block;
         position: inherit;
 
+    }
+    
+    .halfpic{
+       height: 40PX;
+       opacity: 100%;
+    }
+
+    h4{
+        margin: auto;
+    }
+    .p{
+        display: none;
     }
 
 
