@@ -8,17 +8,15 @@ html,
 body {
     margin: 0px;
     padding: 0px;
-}
-
-html {
-    font-family: "Varela";
-
+    font-family: varela;
 }
 
 .header {
     /* background-color: aqua; */
     height: 60px;
 }
+
+
 
 .header-content {
     /* background-color: blue; */
