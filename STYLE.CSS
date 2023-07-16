@@ -3,7 +3,9 @@
     src: url("asset/VarelaRound-Regular.ttf");
 }
 
-
+div{
+    box-sizing: border-box;
+}
 html,
 body {
     margin: 0px;
