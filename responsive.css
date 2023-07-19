@@ -11,7 +11,8 @@
         display: block;
         padding: 10px;
     }
-    .txt{
+
+    .txt {
         font-size: 15px;
         font-weight: bold;
     }
@@ -23,11 +24,11 @@
         margin-bottom: 6px;
     }
 
-    .middle{
+    .middle {
         width: 100%;
     }
 
-    .middle-content{
+    .middle-content {
         width: 100%;
     }
 
@@ -42,13 +43,13 @@
     .button {
         margin: 0 auto;
         font-size: 10px;
-        }
+    }
 
     .wrapper {
         width: 100%;
     }
 
-    .content{
+    .content {
         height: fit-content;
     }
 
@@ -56,38 +57,42 @@
         display: block;
     }
 
-    #Welocome-Box{
+    #Welocome-Box {
         height: 210px;
         padding-top: 40px;
     }
-    #Left-Box{
+
+    #Left-Box {
         height: 230px;
     }
 
-    .box1{
+    .box1 {
         margin: auto;
         width: 280px;
         padding-top: 15px;
     }
-    .halfpic{
+
+    .halfpic {
         width: 280px;
     }
-    .navar{
+
+    .navar {
         margin: 0 auto;
         display: block;
         position: inherit;
 
     }
-    
-    .halfpic{
-       height: 40PX;
-       opacity: 100%;
+
+    .halfpic {
+        height: 40PX;
+        opacity: 100%;
     }
 
-    h4{
+    h4 {
         margin: auto;
     }
-    .p{
+
+    .p {
         display: none;
     }
 
